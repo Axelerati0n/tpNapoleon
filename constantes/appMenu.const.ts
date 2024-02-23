@@ -6,7 +6,7 @@ export const appMenuConstants  = [
     },
     {
         name: 'Batailles',
-        url: '/bataille',
+        url: '/batailles/',
         icon: 'mdi-shield-sword',
     }
     

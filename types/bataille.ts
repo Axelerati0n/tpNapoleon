@@ -1,7 +1,7 @@
 import type {EntityInterface} from '~/types/entity'
 
 export interface BatailleInterface extends EntityInterface {
-  image: string
+  image?: string
   nom: string
   annee: number
   victoire: boolean
